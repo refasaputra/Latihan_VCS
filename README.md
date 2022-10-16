@@ -27,3 +27,33 @@ Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombo
 Kemudian kaliam akan diarahkan pada halaman untuk membuat repository baru seperti gambar di bawah ini.
 
 ![Gambar 4](SS/4.png)
+
+4.Buat Folder
+Lalu kalian buat folder di localdisk koomputer kalian
+
+![Gambar 5](SS/5.png)
+
+jika sudah kalian klik kanan pada folder tersebut lalu klik Git Bash
+
+![Gambar 6](SS/6.png)
+
+Buat folder dengan menggunakan perintah dan buka folder tersebut
+
+$mkdir latihan1
+
+$cd latihan1
+
+![Gambar 7](SS/7.png)
+
+![Gambar 8](SS/8.png)
+
+dan tambahkan file README.md dengan menggunakan perintah
+
+$echo "#LatihanVCS" >> README.md
+
+![Gambar ]()
+
+kemudian buat repository lokal menggunakan perintah
+
+$git init
+
