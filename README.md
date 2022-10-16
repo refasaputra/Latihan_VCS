@@ -22,8 +22,8 @@ Langkah kedua kalian bisa login ke dalam website github, Setelah kalian login ak
 3.Buat Repository
 Setelah berhasil login ke GitHub, Anda bisa mulai membuat repository. Klik tombol New pada menu Repositories untuk membuat repository baru.
 
-1[Gambar 3](SS/3.png)
+![Gambar 3](SS/3.png)
 
 Kemudian kaliam akan diarahkan pada halaman untuk membuat repository baru seperti gambar di bawah ini.
 
-1[Gambar 4](SS/4.png)
+![Gambar 4](SS/4.png)
