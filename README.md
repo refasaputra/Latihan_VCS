@@ -13,3 +13,5 @@ lalu kalian tambahkan juga email dengan menggunakan perintah
 $ git config --global user.email "email anda"
 
 ![Gambar 1](SS/1.png)
+ 
+ fgdkhgkhailhdfklhwlejfhjl
