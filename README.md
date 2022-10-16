@@ -51,9 +51,30 @@ dan tambahkan file README.md dengan menggunakan perintah
 
 $echo "#LatihanVCS" >> README.md
 
-![Gambar ]()
+![Gambar 9](SS/9.png)
 
 kemudian buat repository lokal menggunakan perintah
 
 $git init
+
+![Gambar 10](SS/10.png)
+
+Untuk menambahkan file yang baru saja dibuat tersebut menggunakan perintah
+
+$git add README.md
+
+![Gambar 11](SS/11.png)
+
+Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah
+
+$git commit -m "first commit"
+
+![Gambar 12](SS/12.png)
+
+kemudian gunakan perintah
+
+$git branch -M main
+
+![Gambar13 ](SS/13.png)
+
 
