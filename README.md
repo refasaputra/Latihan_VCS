@@ -16,3 +16,6 @@ $ git config --global user.email "email anda"
  
  2.Login Github
 Langkah kedua kalian bisa login ke dalam website github, Setelah kalian login akan muncul tampilan dashboard dari github tersebut
+
+![Gambar 1](SS/2.png)
+
